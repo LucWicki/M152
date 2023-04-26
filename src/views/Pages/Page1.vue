@@ -1,5 +1,5 @@
 <template>
-  Aufgabe 1
+  Page 1
 </template>
 
 <script setup>
