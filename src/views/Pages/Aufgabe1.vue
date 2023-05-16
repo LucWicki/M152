@@ -26,7 +26,7 @@ const bgColor = ref('')
 
 </script>
 
-<style>
+<style scoped lang="scss">
   .text-red{ color: red;}
   .text-white{ color: white;}
   .text-black{ color: black;}
